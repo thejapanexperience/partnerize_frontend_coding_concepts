@@ -37,6 +37,7 @@ const handler2 = {
     }
   },
   set: function(object, property, value) {
+    console.log(`You are setting the family ${property} as ${value}.`);
     return (object[property] = value);
   }
 };
