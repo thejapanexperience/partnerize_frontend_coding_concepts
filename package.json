@@ -1,0 +1,14 @@
+{
+  "name": "coding_concepts",
+  "version": "1.0.0",
+  "description": "Partnerize Frontend Coding Concepts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Richard Mands",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
